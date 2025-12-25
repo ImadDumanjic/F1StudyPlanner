@@ -1,1 +1,1 @@
-# F1RacePlanner
+# F1StudyPlanner
